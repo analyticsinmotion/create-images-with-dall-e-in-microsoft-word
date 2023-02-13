@@ -30,6 +30,14 @@ With the click of a single button you can access ChatGPT's awesome capabilies to
 - Requires an OpenAI API Key (create an account and get API Key at <a href="https://chat.openai.com">https://chat.openai.com</a>)
 - Requires Microsoft Windows 10/11 (<a href="https://www.microsoft.com/en-au/windows">https://www.microsoft.com/en-au/windows</a>)
 - Requires Microsoft Word 365 (<a href="https://www.microsoft.com/en-us">https://www.microsoft.com/en-us</a>)
+<br />
+
+### 2.2 Download Folder for Images
+All images created will be saved to the following default folder in Windows 10/11
+```
+C:\Users\Public\Pictures
+```
+
 <br /><br />
     
 <!-- INSTRUCTIONS -->
