@@ -1,10 +1,11 @@
 # ChatGPT - Create images in Microsoft Word
 How to add ChatGPT's Image Generation capability to Microsoft Word
-
 <br /><br />
 
 <!-- badges: start -->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
 <!-- badges: end -->
 
 <!-- DESCRIPTION -->
@@ -59,6 +60,25 @@ ChatGPT Output
 
 <img src=".github/assets/images/user-example-2.png" width=100% height=100%>
 <br />
+
+### 3.3 Top 10 Image Creation Ideas
+If you are stuck for inspiration try one of these creation prompts:
+```
+1. Oil painting mountains and trees
+2. Watercolor house by the water
+3. Pointillism landscape
+4. Futuristic cars
+5. Mona Lisa laughing
+6. An astronaut riding a horse in a photorealistic style
+7. Fantasy artwork
+8. Alien riding an elephant in space holding a phone
+9. Painting of a kangaroo cartoon style
+10. Bowl of Fruit, Violin and Bottle cubism style
+```
+<br />
+
+
+
 
 <!-- Installation -->
 ## 4. Installation
@@ -135,7 +155,20 @@ Keep the location of where the file is saved as you will need it later.<br />
 <img src=".github/assets/images/choose-commands-from-macros.png" width=35% height=35%>
 <br />
 
+**Step 5** - Select the ChatgptImageGeneration Macro and click Add >>
 
+<img src=".github/assets/images/add-the-macro-into-new-group.png" width=75% height=75%>
+<br />
+
+**Step 6** - Rename button to **Image Generation**, select a Symbol and click OK
+
+<img src=".github/assets/images/rename-button-to-text-completion.png" width=35% height=35%>
+<br />
+
+After the preceding steps have been completed the Microsoft Word screen should look like the following:
+
+<img src=".github/assets/images/screen-after-chatgpt-button-added.png" width=100% height=100%>
+<br />
 
 
 
