@@ -37,7 +37,7 @@ With the click of a single button you can access ChatGPT's awesome capabilies to
   - The bespoke image will appear under the initial text descrption
 <br /><br />
 
-### 3.1 Text Completion Example 1
+### 3.1 Image Generation Example 1
 
 User Input
 ```
@@ -49,7 +49,7 @@ ChatGPT Output
 <img src=".github/assets/images/user-example-1.png" width=100% height=100%>
 <br />
 
-### 3.2 Text Completion Example 2
+### 3.2 Image Generation Example 2
 
 User Input
 ```
@@ -131,6 +131,9 @@ Keep the location of where the file is saved as you will need it later.<br />
 
 ### 4.3 Add your ChatGPT button into the Microsoft Word Ribbon
 
+**Please Note:** This project closely relates to our *Add ChatGPT to Microsoft Word* project found here: <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word</a>. If you have have already added that project into Microsoft Word you can start at Step 4 of this section.
+<br /><br />
+
 **Step 1** - Add a new tab **(OPTIONAL)**
 <br />
   - On the File tab, go to Options > Customize Ribbon
@@ -140,12 +143,12 @@ Keep the location of where the file is saved as you will need it later.<br />
 <img src=".github/assets/images/options-customize-ribbon-new-tab.png" width=40% height=40%>
 <br />
 
- **Step 2** - Rename the New Tab to **AI Assistant**
+ **Step 2** - Rename the New Tab to **AI Assistant** **(OPTIONAL)**
 
 <img src=".github/assets/images/options-customize-ribbon-rename-tab.png" width=35% height=35%>
 <br />
 
-**Step 3** - Rename New Group (Custom) to **ChatGPT**
+**Step 3** - Rename New Group (Custom) to **ChatGPT** **(OPTIONAL)**
 
 <img src=".github/assets/images/rename-new-group.png" width=35% height=35%>
 <br />
