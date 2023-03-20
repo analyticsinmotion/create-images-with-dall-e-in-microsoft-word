@@ -15,7 +15,7 @@ How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
 <!-- DESCRIPTION -->
 ## 1. Description
 
-With the click of a single button you can access ChatGPT's awesome capabilies to generate unique images in Microsoft Word
+With the click of a single button you can access OpenAI's awesome capabilies to generate unique images in Microsoft Word
 <br /><br />
 
 
@@ -62,9 +62,9 @@ We endeavour to test and integrate newer models when they are become Generally A
 <!-- INSTRUCTIONS -->
 ## 3. Instructions
 
-  - Write a desciption of the image you want ChatGPT to create anywhere in Microsoft Word
+  - Write a desciption of the image you want DALL·E to create anywhere in Microsoft Word
   - Click the **Image Generation** button in the AI Assistant tab
-  - Wait a few seconds for ChatGPT to respond
+  - Wait a few seconds for DALL·E to respond
   - The bespoke image will appear under the initial text descrption
 <br /><br />
 
@@ -75,7 +75,7 @@ User Input
 Watercolor painting house on the water with trees
 ```
 
-ChatGPT Output
+DALL·E Output
 
 <img src=".github/assets/images/user-example-1.png" width=100% height=100%>
 <br />
@@ -87,7 +87,7 @@ User Input
 An astronaut riding a horse in a photorealistic style
 ```
 
-ChatGPT Output
+DALL·E Output
 
 <img src=".github/assets/images/user-example-2.png" width=100% height=100%>
 <br />
