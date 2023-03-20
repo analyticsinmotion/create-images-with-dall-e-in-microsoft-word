@@ -1,4 +1,4 @@
-# DALL·E - Create images in Microsoft Word
+# DALL·E - Create images in Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Generate%20original%20images%20and%20artwork%20from%20a%20simple%20description%20in%20Microsoft%20Word.&url=https://github.com/analyticsinmotion/create-images-with-dall-e-in-microsoft-word&via=analyticsmotion&hashtags=dalle2,openai,Microsoft365,aiimage)
 How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
 <br /><br />
 
