@@ -1,5 +1,5 @@
 # DALL·E - Create images in Microsoft Word
-How to add ChatGPT's Image Generation capability (DALL·E 2) to Microsoft Word
+How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
 <br /><br />
 
 <!-- badges: start -->
