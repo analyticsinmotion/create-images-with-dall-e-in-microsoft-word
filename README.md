@@ -42,6 +42,21 @@ All images created will be saved to the following default folder in Windows 10/1
 C:\Users\Public\Pictures
 ```
 
+
+<br />
+
+### 2.3 AI Models
+
+This application uses the following OpenAI model:
+ 
+| Model  | Description | Iteration |
+| ------------- | ------------- |------------- | 
+| DALL·E  | A model that can generate and edit images given a natural <br /> language prompt. The current model has more realistic, accurate, <br /> and 4x greater resolution images than the original model. | 2nd | 
+
+Further information about all OpenAI models can be found here: <a href="https://platform.openai.com/docs/models/overview">https://platform.openai.com/docs/models/overview</a>
+
+We endeavour to test and integrate newer models when they are become Generally Available (GA). Models released as a 'Limited Beta' will not be integrated until they become GA.
+
 <br /><br />
     
 <!-- INSTRUCTIONS -->
