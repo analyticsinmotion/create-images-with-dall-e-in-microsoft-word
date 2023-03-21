@@ -185,7 +185,7 @@ Keep the location of where the file is saved as you will need it later.<br />
 <img src=".github/assets/images/options-customize-ribbon-rename-tab.png" width=35% height=35%>
 <br />
 
-**Step 3** - Rename New Group (Custom) to **ChatGPT** **(OPTIONAL)**
+**Step 3** - Add New Group and rename it to **DALL·E** 
 
 <img src=".github/assets/images/rename-new-group.png" width=35% height=35%>
 <br />
