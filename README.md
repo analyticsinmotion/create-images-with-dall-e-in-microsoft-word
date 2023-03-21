@@ -168,7 +168,7 @@ Keep the location of where the file is saved as you will need it later.<br />
 
 ### 4.3 Add your ChatGPT button into the Microsoft Word Ribbon
 
-**Please Note:** This project closely relates to our *Add ChatGPT to Microsoft Word* project found here: <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word</a>. If you have have already added that project into Microsoft Word you can start at Step 4 of this section.
+**Please Note:** This project closely relates to our *Add ChatGPT to Microsoft Word* project found here: <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word</a>. If you have have already added that project into Microsoft Word you can start at Step 3 of this section.
 <br /><br />
 
 **Step 1** - Add a new tab **(OPTIONAL)**
