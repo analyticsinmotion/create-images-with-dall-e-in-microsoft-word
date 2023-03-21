@@ -19,8 +19,7 @@ With the click of a single button you can access OpenAI's awesome capabilies to 
 <br /><br />
 
 
-
-https://user-images.githubusercontent.com/52817125/218464302-448ec765-6f67-497c-8a3e-5910318a604b.mp4
+https://user-images.githubusercontent.com/52817125/226598489-a03c1b9d-cf48-46e8-8ac9-2cd0cd18c075.mp4
 
 
 <br />
