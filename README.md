@@ -119,7 +119,7 @@ If you are stuck for inspiration try one of these creation prompts:
 <!-- Installation -->
 ## 4. Installation
 
-There are 4 basic steps in order to add a ChatGPT button into Microsoft Word:
+There are 4 basic steps in order to add a DALL·E Image Generation button into Microsoft Word:
   1. Enable the Developer Tab
   2. Import the VBA script file
   3. Create the **Image Generation** button 
@@ -144,9 +144,9 @@ The latest instructions to enable the Developer Tab from Microsoft can be found 
 <a href="https://support.microsoft.com/en-us/office/show-the-developer-tab-in-word-e356706f-1891-4bb8-8d72-f57a51146792">https://support.microsoft.com/en-us/office/show-the-developer-tab-in-word-e356706f-1891-4bb8-8d72-f57a51146792</a>
 <br /><br />
 
-### 4.2 Import the ChatgptImageGeneration.bas file
+### 4.2 Import the Dalle.bas file
 
-**Step 1** - Download and Save the latest ChatgptImageGeneration.bas file from this repository.
+**Step 1** - Download and Save the latest Dalle.bas file from this repository in the src/windows directory.
 <br />
 
 Keep the location of where the file is saved as you will need it later.<br />
@@ -162,10 +162,10 @@ Keep the location of where the file is saved as you will need it later.<br />
 <img src=".github/assets/images/visual-basic-file-import-section.png" width=100% height=100%>
 <br />
 
-**Step 4** - Select the ChatgptImageGeneration.bas file and click Open
+**Step 4** - Select the Dalle.bas file and click Open
 <br /><br />
 
-### 4.3 Add your ChatGPT button into the Microsoft Word Ribbon
+### 4.3 Add your DALL·E Image Generation button into the Microsoft Word Ribbon
 
 **Please Note:** This project closely relates to our *Add ChatGPT to Microsoft Word* project found here: <a href="https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word">https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word</a>. If you have have already added that project into Microsoft Word you can start at Step 3 of this section.
 <br /><br />
@@ -194,7 +194,7 @@ Keep the location of where the file is saved as you will need it later.<br />
 <img src=".github/assets/images/choose-commands-from-macros.png" width=35% height=35%>
 <br />
 
-**Step 5** - Select the ChatgptImageGeneration Macro and click Add >>
+**Step 5** - Select the Dalle Macro and click Add >>
 
 <img src=".github/assets/images/add-the-macro-into-new-group.png" width=75% height=75%>
 <br />
