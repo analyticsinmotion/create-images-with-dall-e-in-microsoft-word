@@ -57,6 +57,12 @@ Further information about all OpenAI models can be found here: <a href="https://
 
 We endeavour to test and integrate newer models when they are become Generally Available (GA). Models released as a 'Limited Beta' will not be integrated until they become GA.
 
+<br />
+
+### 2.4 OpenAI Status
+
+Should you receive error messages for a period of 5 minutes or more, please check the Labs Uptime status at the following link: <a href="https://status.openai.com/">https://status.openai.com/</a>
+
 <br /><br />
     
 <!-- INSTRUCTIONS -->
