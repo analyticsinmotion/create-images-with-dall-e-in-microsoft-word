@@ -1,8 +1,17 @@
-# DALL·E - Create images in Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Generate%20original%20images%20and%20artwork%20from%20a%20simple%20description%20in%20Microsoft%20Word.&url=https://github.com/analyticsinmotion/create-images-with-dall-e-in-microsoft-word&via=analyticsmotion&hashtags=dalle2,openai,Microsoft365,aiimage)
-How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
-<br /><br />
+<div align="center">
+ 
+ ![analytics-in-motion-create-images-with-dall-e-in-microsoft-word](https://github.com/analyticsinmotion/create-images-with-dall-e-in-microsoft-word/assets/52817125/1d02d94b-e65e-4c91-9ed8-dbdb7c8ef4eb)
+
+  </div>
+
+<h1 align="center">DALL·E - Create images in Microsoft Word &nbsp;</h1>
+
+
+
 
 <!-- badges: start -->
+<div align="center">
+  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
 [![CI](https://github.com/analyticsinmotion/chatgpt-create-images-in-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/chatgpt-create-images-in-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
@@ -10,7 +19,13 @@ How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
 ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
 [![Analytics in Motion](https://raw.githubusercontent.com/analyticsinmotion/.github/main/assets/images/analytics-in-motion-github-badge-rounded.svg)](https://www.analyticsinmotion.com)&nbsp;&nbsp;
+ 
+ </div>
 <!-- badges: end -->
+
+<br />
+How to add OpenAI's Image Generation capability (DALL·E 2) to Microsoft Word
+<br /><br />
 
 <!-- DESCRIPTION -->
 ## 1. Description
