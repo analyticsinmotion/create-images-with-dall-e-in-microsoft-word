@@ -1,2 +1,3 @@
 *.vb linguist-language=Visual Basic
 *.bas linguist-language=Visual Basic
+src/windows/*.bas linguist-language=Visual Basic
