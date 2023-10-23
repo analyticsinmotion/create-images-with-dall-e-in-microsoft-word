@@ -11,13 +11,15 @@
 
 <!-- badges: start -->
 <div align="center">
-  
+
+[![DALL·E](https://img.shields.io/badge/DALL·E-000000?style=badge&logo=openai&logoColor=white)](https://openai.com/dall-e-2/)&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
 [![CI](https://github.com/analyticsinmotion/chatgpt-create-images-in-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/chatgpt-create-images-in-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/analyticsinmotion/chatgpt-images-r-shiny/blob/main/LICENSE.md)&nbsp;&nbsp;
 ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=badge&logo=openai&logoColor=white)](https://openai.com)&nbsp;&nbsp;
 [![Analytics in Motion](https://raw.githubusercontent.com/analyticsinmotion/.github/main/assets/images/analytics-in-motion-github-badge-rounded.svg)](https://www.analyticsinmotion.com)
  
  </div>
